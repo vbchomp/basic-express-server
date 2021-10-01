@@ -10,13 +10,22 @@
 
 ## Author
 
-Heather Bisgaard
+Heather Bisgaard, Software Engineer
 
 ## Collaborators
 
+Phil Murphy, Site Reliability Engineer
+Charlie Fadness, Software Developer
+Lorenzo Ortega, Software Developer
+Jeremy Brazell, Software Developer
+Mark Thanadabouth, Software Developer
+Ayrat Gimranov, Software Developer
+Tom McGuire, Software Developer
+
+
 ## References
 
-[Title](URL)
+[UML](/Users/veebs/Documents/CodeFellows/401/basic-express-server/src/UML.png)
 
 ## Set Up Notes for Basic Express Server to Test
 
