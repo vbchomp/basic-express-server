@@ -23,7 +23,7 @@ describe('web server', () => {
     return mockRequest
     .post('/person')
     .then(results => {
-      
+
       expect(results.status).toBe(404);
       expect(results.req.method).toBe('GET');
     });

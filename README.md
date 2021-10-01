@@ -4,9 +4,9 @@
 
 ## Deployed Sites
 
-- [main branch](URL)
+- [main branch](https://hbis-basic-express-server-prod.herokuapp.com/)
 
-- [dev](URL)
+- [dev](https://hbis-basic-express-server-dev.herokuapp.com/)
 
 ## Author
 
@@ -35,3 +35,5 @@ Tom McGuire, Software Developer
 3. Make sure to npm init and then npm i the dependencies needed for express, dotenv, jest, supertest. Then make sure "start": "node index.js" and "test": "jest --coverage", are in your scripts section of package.json.
 
 4. Write your routes, tests, etc.
+
+5. Set up Actions in GitHub. Still not sure how to do these, will update in next update on what I've researched.
