@@ -22,7 +22,6 @@ Mark Thanadabouth, Software Developer
 Ayrat Gimranov, Software Developer
 Tom McGuire, Software Developer
 
-
 ## References
 
 [UML](/Users/veebs/Documents/CodeFellows/401/basic-express-server/src/UML.png)
