@@ -15,6 +15,7 @@ const app = express();
 
 // Global Middleware
 app.use(logger);
+app.use(validator);
 app.use(express.json()); // helps parse json
 
 // our own route w /logger for all routes
@@ -37,7 +38,7 @@ app.use(errHandler);
 
 // Exports here
 module.exports = {
-    app: app,
+    server: app,
     start: port => {
         if (!port) { throw new Error('Missing Port'); }
         app.listen(port, () => console.log(`Listening on port ${port}`));
